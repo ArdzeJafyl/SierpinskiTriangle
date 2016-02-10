@@ -13,7 +13,7 @@ public void setup()
 
 public void draw()
 {
-	background(204);
+	background(200);
 	translate(900,900);
 	rotate((float)Math.PI);
 	ski(0,50,900);
